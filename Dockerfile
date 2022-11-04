@@ -18,6 +18,6 @@ RUN set -eux; \
 
 WORKDIR /data
 
-EXPOSE 3000
+EXPOSE 80
 
 CMD [ "sh", "-c", "json-server --host $JSON_SERVER_HOST --port $JSON_SERVER_PORT --routes $JSON_SERVER_ROUTES --watch $JSON_SERVER_SOURCE" ]
