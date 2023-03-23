@@ -1,6 +1,6 @@
-[![Continuous Integration](https://img.shields.io/github/workflow/status/skriptfabrik/docker-hub-json-server/Continuous%20Integration)](https://github.com/skriptfabrik/docker-hub-json-server/actions/workflows/ci.yml)
-
 # JSON Server Docker Images
+
+[![Continuous Integration](https://github.com/skriptfabrik/docker-hub-json-server/actions/workflows/ci.yml/badge.svg)](https://github.com/skriptfabrik/docker-hub-json-server/actions/workflows/ci.yml)
 
 > Dockerized [JSON Server](https://github.com/typicode/json-server) - provides REST API mocking based on plain JSON files
 
